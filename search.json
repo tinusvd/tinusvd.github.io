@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Meee",
-    "section": "",
-    "text": "About Test site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal_website",
+    "title": "Martijn L.G. van Dam",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a research master’s student at the Methodology & Statistics Department at Utrecht University. My interests are (intensive) longitudinal data, Bayesian statistics, model selection, and causal inference. In my free time I enjoy going to the gym or cycling. When I am less active, I like to play video games."
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Martijn L.G. van Dam",
+    "section": "",
+    "text": "I am a research master’s student at the Methodology & Statistics Department at Utrecht University. My interests are (intensive) longitudinal data, Bayesian statistics, model selection, and causal inference. In my free time I enjoy going to the gym or cycling. When I am less active, I like to play video games."
   }
 ]
