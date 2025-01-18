@@ -2,7 +2,7 @@
 title: "Martijn L.G. van Dam"
 about:
   template: solana
-  image: m_vacation.heic
+  image: m_image.jpeg
   links:
     - icon: linkedin
     href: https://nl.linkedin.com/in/martijn-van-dam-a0b02b188
