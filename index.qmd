@@ -5,9 +5,9 @@ about:
   image: m_image.jpeg
   links:
     - icon: linkedin
-    href: https://nl.linkedin.com/in/martijn-van-dam-a0b02b188
+      href: https://nl.linkedin.com/in/martijn-van-dam-a0b02b188
     - icon: github
-    href: https://github.com/tinusvd
+      href: https://github.com/tinusvd
 ---
 
 ## Hello!
