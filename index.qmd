@@ -1,7 +1,15 @@
 ---
-title: "personal_website"
+title: "Martijn L.G. van Dam"
+about:
+  template: solana
+  image: m_vacation.heic
+  links:
+    - icon: linkedin
+    href: https://nl.linkedin.com/in/martijn-van-dam-a0b02b188
+    - icon: github
+    href: https://github.com/tinusvd
 ---
 
-This is a Quarto website.
+## Hello!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a research master's student at the Methodology & Statistics Department at Utrecht University. My interests are (intensive) longitudinal data, Bayesian statistics, model selection, and causal inference. In my free time I enjoy going to the gym or cycling. When I am less active, I like to play video games.
